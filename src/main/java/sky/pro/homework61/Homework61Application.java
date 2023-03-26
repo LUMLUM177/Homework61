@@ -8,6 +8,8 @@ public class Homework61Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Homework61Application.class, args);
+
+        //комментарий с веткой
     }
 
 }
